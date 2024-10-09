@@ -71,7 +71,7 @@ Feel free to reach out at amanraj98523@gmail.com or connect with me on <a href="
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Kranti00/Bit-Ballers_038" title="Bit-Ballers_038"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Kranti00&repo=Bit-Ballers_038&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/amanraj98523/Amazon-Clone" title="Amazon-Clone"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=amanraj98523&repo=Amazon-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 
 
   </div>
