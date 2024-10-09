@@ -71,7 +71,7 @@ Feel free to reach out at amanraj98523@gmail.com or connect with me on <a href="
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
- <a align="left" href="https://github.com/amanraj98523/CW-Twitter-Trailblazer" title="CW-Twitter-Trailblazers_099"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=amanraj98523&repo=CW-Twitter-Trailblazer&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="left" href="https://github.com/Mayank1st/Beas-Boolean-009" title="CW-Twitter-Trailblazers_099"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=amanraj98523&repo=CW-Twitter-Trailblazer&theme=react&border_color=61dafb&border_radius=10"></a>
 
   </div>
 
