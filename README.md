@@ -25,7 +25,7 @@ Feel free to reach out at amanraj98523@gmail.com or connect with me on <a href="
 
 
 **🚀 Portfolio Link**
-- *My Portfolio* :- https://tangerine-frangipane-3fc199.netlify.app/#blog
+- *My Portfolio* :- https://incredible-bombolone-db0ea5.netlify.app/
 
 <hr>
 
