@@ -25,7 +25,7 @@ Feel free to reach out at amanraj98523@gmail.com or connect with me on <a href="
 
 
 **🚀 Portfolio Link**
-- *My Portfolio* :- https://incredible-bombolone-db0ea5.netlify.app/
+- *My Portfolio* :- https://effervescent-llama-271d35.netlify.app/
 
 <hr>
 
